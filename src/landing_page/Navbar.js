@@ -53,7 +53,7 @@ function Navbar() {
                 </Link>
               </li>
               <li class="nav-item me-3">
-                <Link class="nav-link active" to="/nothing">
+                <Link class="nav-link active" to="/go home">
                 <i class="fa-solid fa-bars"></i>
                 </Link>
               </li>
