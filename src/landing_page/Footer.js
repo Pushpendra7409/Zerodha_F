@@ -140,6 +140,38 @@ function Footer() {
           </p>
         </div>
       </div>
+
+    <div className="container footer-graveyard-links">
+			<ul className='list-unstyled d-flex flex-wrap gap-5 fs-6'>
+				<li>
+					<a href="https://nseindia.com" className='text-decoration-none text-dark'>NSE</a>
+				</li>
+				<li>
+					<a href="https://www.bseindia.com/" className='text-decoration-none text-dark'>BSE</a>
+				</li>
+				<li>
+					<a href="https://www.mcxindia.com/" className='text-decoration-none text-dark'>MCX</a>
+				</li>
+				<li>
+					<a href="https://zerodha.com/terms-and-conditions/" className='text-decoration-none text-dark'>Terms &amp; conditions</a>
+				</li>
+				<li>
+					<a href="https://zerodha.com/policies-and-procedures/" className='text-decoration-none text-dark'>Policies &amp; procedures</a>
+				</li>
+				<li>
+					<a href="https://zerodha.com/privacy-policy/" className='text-decoration-none text-dark'>Privacy policy</a>
+				</li>
+				<li>
+					<a href="https://zerodha.com/disclosure/" className='text-decoration-none text-dark'>Disclosure</a>
+				</li>
+				<li>
+					<a href="https://zerodha.com/investor-attention/" className='text-decoration-none text-dark'>For investor's attention</a>
+				</li>
+				<li>
+					<a href="https://zerodha.com/tos/investor-charter/" className='text-decoration-none text-dark'>Investor charter</a>
+				</li>
+			</ul>
+		</div>
     </footer>
   )
 }
